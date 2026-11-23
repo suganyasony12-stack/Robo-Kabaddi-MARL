@@ -1,0 +1,10 @@
+### T7_learned_defences: Learned defences (MAPPO, 3 defenders) against fixed raiders, %
+
+| Defence | Scripted raider: touch | tackle | foul | PPO raiders (3 seeds): touch | tackle | foul |
+|---|---|---|---|---|---|---|
+| trained vs scripted raider, seed 0 | 3.0 [1, 6] | 97.0 [94, 99] | 0.0 [0, 2] | 8.5 [7, 11] | 0.2 [0, 1] | 90.8 [88, 93] |
+| trained vs scripted raider, seed 1 | 2.5 [1, 6] | 97.0 [94, 99] | 0.5 [0, 3] | 16.8 [13, 21] | 18.0 [15, 22] | 65.2 [60, 70] |
+| trained vs PPO raider (seed 42) | 100.0 [98, 100] | 0.0 [0, 2] | 0.0 [0, 2] | 2.5 [2, 4] | 97.5 [96, 98] | 0.0 [0, 1] |
+| trained vs a pool of PPO raiders | 97.5 [94, 99] | 0.0 [0, 2] | 2.5 [1, 6] | 7.0 [5, 9] | 92.2 [90, 94] | 0.0 [0, 1] |
+
+200 raids per raider; foul = a defender over a line (the raider's point).

@@ -1,0 +1,674 @@
+{
+ "2 def C": {
+  "sim": [
+   {
+    "seed": 50000,
+    "outcome": "held",
+    "def_speed": 0.13636173426700063,
+    "moving": 0.75,
+    "close_s": 4.800000000000001,
+    "first_close": 6.4,
+    "deepest": 1.4896972179412842,
+    "block_after_touch": 1.0,
+    "raid_s": 11.8
+   },
+   {
+    "seed": 50001,
+    "outcome": "held",
+    "def_speed": 0.16024372746608406,
+    "moving": 0.8661971830985915,
+    "close_s": 4.799999999999999,
+    "first_close": 8.0,
+    "deepest": 1.5061876773834229,
+    "block_after_touch": 0.9032258064516129,
+    "raid_s": 14.0
+   },
+   {
+    "seed": 50002,
+    "outcome": "held",
+    "def_speed": 0.13653668812486366,
+    "moving": 0.7461538461538462,
+    "close_s": 4.800000000000001,
+    "first_close": 7.4,
+    "deepest": 1.4059714078903198,
+    "block_after_touch": 1.0,
+    "raid_s": 12.8
+   },
+   {
+    "seed": 50003,
+    "outcome": "held",
+    "def_speed": 0.12873316254882564,
+    "moving": 0.7627118644067796,
+    "close_s": 4.550000000000001,
+    "first_close": 5.800000000000001,
+    "deepest": 1.4788001775741577,
+    "block_after_touch": 1.0,
+    "raid_s": 11.55
+   },
+   {
+    "seed": 50004,
+    "outcome": "held",
+    "def_speed": 0.1358936807900205,
+    "moving": 0.7878787878787878,
+    "close_s": 4.25,
+    "first_close": 8.8,
+    "deepest": 1.2452393770217896,
+    "block_after_touch": 1.0,
+    "raid_s": 12.850000000000001
+   },
+   {
+    "seed": 50005,
+    "outcome": "held",
+    "def_speed": 0.1528216996086514,
+    "moving": 0.8306451612903226,
+    "close_s": 4.9,
+    "first_close": 6.800000000000001,
+    "deepest": 1.4654083251953125,
+    "block_after_touch": 1.0,
+    "raid_s": 12.100000000000001
+   },
+   {
+    "seed": 50006,
+    "outcome": "held",
+    "def_speed": 0.14173361714171437,
+    "moving": 0.8166666666666667,
+    "close_s": 5.35,
+    "first_close": 5.800000000000001,
+    "deepest": 1.5580470561981201,
+    "block_after_touch": 0.9666666666666667,
+    "raid_s": 11.75
+   },
+   {
+    "seed": 50007,
+    "outcome": "touch",
+    "def_speed": 0.19083302265389052,
+    "moving": 0.9396551724137931,
+    "close_s": 1.6000000000000014,
+    "first_close": 7.600000000000001,
+    "deepest": 1.1938968896865845,
+    "block_after_touch": 0.2,
+    "raid_s": 11.250000000000002
+   },
+   {
+    "seed": 50008,
+    "outcome": "held",
+    "def_speed": 0.14959125003168355,
+    "moving": 0.75,
+    "close_s": 5.449999999999999,
+    "first_close": 7.0,
+    "deepest": 1.4462072849273682,
+    "block_after_touch": 1.0,
+    "raid_s": 12.45
+   },
+   {
+    "seed": 50009,
+    "outcome": "held",
+    "def_speed": 0.13396173774632428,
+    "moving": 0.7661290322580645,
+    "close_s": 5.0,
+    "first_close": 6.4,
+    "deepest": 1.5183005332946777,
+    "block_after_touch": 0.9666666666666667,
+    "raid_s": 12.2
+   },
+   {
+    "seed": 50010,
+    "outcome": "held",
+    "def_speed": 0.12904913169388577,
+    "moving": 0.7727272727272727,
+    "close_s": 4.450000000000001,
+    "first_close": 7.200000000000001,
+    "deepest": 1.4763309955596924,
+    "block_after_touch": 1.0,
+    "raid_s": 12.850000000000001
+   },
+   {
+    "seed": 50011,
+    "outcome": "held",
+    "def_speed": 0.147015238095854,
+    "moving": 0.8125,
+    "close_s": 4.75,
+    "first_close": 6.8,
+    "deepest": 1.482836127281189,
+    "block_after_touch": 1.0,
+    "raid_s": 12.55
+   },
+   {
+    "seed": 50012,
+    "outcome": "held",
+    "def_speed": 0.1405482194511153,
+    "moving": 0.7583333333333333,
+    "close_s": 4.8500000000000005,
+    "first_close": 6.200000000000001,
+    "deepest": 1.4678245782852173,
+    "block_after_touch": 1.0,
+    "raid_s": 11.65
+   },
+   {
+    "seed": 50013,
+    "outcome": "held",
+    "def_speed": 0.1294362367797848,
+    "moving": 0.8043478260869565,
+    "close_s": 4.85,
+    "first_close": 8.0,
+    "deepest": 1.4475653171539307,
+    "block_after_touch": 1.0,
+    "raid_s": 13.450000000000001
+   },
+   {
+    "seed": 50014,
+    "outcome": "held",
+    "def_speed": 0.1525856253536253,
+    "moving": 0.7540983606557377,
+    "close_s": 5.250000000000002,
+    "first_close": 6.600000000000001,
+    "deepest": 1.458324909210205,
+    "block_after_touch": 1.0,
+    "raid_s": 11.850000000000001
+   }
+  ],
+  "robots": [
+   {
+    "seed": 50000,
+    "outcome": "touch",
+    "def_speed": 0.1991961613406564,
+    "moving": 0.7719869706840391,
+    "close_s": 3.400000000000002,
+    "first_close": 7.800000000000001,
+    "deepest": 1.5430000000000001,
+    "block_after_touch": 0.41333333333333333,
+    "raid_s": 15.299999999999999
+   },
+   {
+    "seed": 50001,
+    "outcome": "touch",
+    "def_speed": 0.1801890343031128,
+    "moving": 0.769927536231884,
+    "close_s": 1.8499999999999996,
+    "first_close": 6.8500000000000005,
+    "deepest": 1.384,
+    "block_after_touch": 0.0,
+    "raid_s": 13.75
+   },
+   {
+    "seed": 50002,
+    "outcome": "held",
+    "def_speed": 0.18727403894734582,
+    "moving": 0.855787476280835,
+    "close_s": 18.85,
+    "first_close": 7.300000000000001,
+    "deepest": 1.705,
+    "block_after_touch": 0.45263157894736844,
+    "raid_s": 26.299999999999997
+   },
+   {
+    "seed": 50003,
+    "outcome": "touch",
+    "def_speed": 0.18913640007047836,
+    "moving": 0.8018181818181818,
+    "close_s": 2.5999999999999996,
+    "first_close": 7.1499999999999995,
+    "deepest": 1.5350000000000001,
+    "block_after_touch": 0.22137404580152673,
+    "raid_s": 13.700000000000001
+   },
+   {
+    "seed": 50004,
+    "outcome": "touch",
+    "def_speed": 0.19786583637718605,
+    "moving": 0.8629032258064516,
+    "close_s": 3.1500000000000004,
+    "first_close": 7.85,
+    "deepest": 1.101,
+    "block_after_touch": 0.6333333333333333,
+    "raid_s": 12.35
+   },
+   {
+    "seed": 50005,
+    "outcome": "touch",
+    "def_speed": 0.22331096356136004,
+    "moving": 0.9130434782608695,
+    "close_s": 4.050000000000001,
+    "first_close": 6.25,
+    "deepest": 1.58,
+    "block_after_touch": 0.5466666666666666,
+    "raid_s": 13.75
+   },
+   {
+    "seed": 50006,
+    "outcome": "touch",
+    "def_speed": 0.24976055311966994,
+    "moving": 0.8986175115207373,
+    "close_s": 3.05,
+    "first_close": 5.9,
+    "deepest": 1.577,
+    "block_after_touch": 0.6836734693877551,
+    "raid_s": 10.8
+   },
+   {
+    "seed": 50007,
+    "outcome": "touch",
+    "def_speed": 0.1613032292371649,
+    "moving": 0.6693989071038251,
+    "close_s": 0.5999999999999996,
+    "first_close": 4.55,
+    "deepest": 1.318,
+    "block_after_touch": 0.0,
+    "raid_s": 9.1
+   },
+   {
+    "seed": 50008,
+    "outcome": "touch",
+    "def_speed": 0.19463461589920808,
+    "moving": 0.9367816091954023,
+    "close_s": 5.049999999999999,
+    "first_close": 5.8999999999999995,
+    "deepest": 1.6589999999999998,
+    "block_after_touch": 0.4295774647887324,
+    "raid_s": 13.0
+   },
+   {
+    "seed": 50009,
+    "outcome": "touch",
+    "def_speed": 0.19778110382365346,
+    "moving": 0.8505025125628141,
+    "close_s": 11.95,
+    "first_close": 7.95,
+    "deepest": 1.1909999999999998,
+    "block_after_touch": 0.4789915966386555,
+    "raid_s": 19.849999999999998
+   },
+   {
+    "seed": 50010,
+    "outcome": "touch",
+    "def_speed": 0.24348085054106672,
+    "moving": 0.9192913385826772,
+    "close_s": 6.25,
+    "first_close": 6.2,
+    "deepest": 1.705,
+    "block_after_touch": 0.8914728682170543,
+    "raid_s": 12.65
+   },
+   {
+    "seed": 50011,
+    "outcome": "touch",
+    "def_speed": 0.23775994202225473,
+    "moving": 0.9043624161073825,
+    "close_s": 3.5999999999999996,
+    "first_close": 7.4,
+    "deepest": 1.5499999999999998,
+    "block_after_touch": 0.4228187919463087,
+    "raid_s": 14.85
+   },
+   {
+    "seed": 50012,
+    "outcome": "touch",
+    "def_speed": 0.2258224296814607,
+    "moving": 0.8774193548387097,
+    "close_s": 4.850000000000001,
+    "first_close": 7.6000000000000005,
+    "deepest": 1.5030000000000001,
+    "block_after_touch": 0.4968152866242038,
+    "raid_s": 15.45
+   },
+   {
+    "seed": 50013,
+    "outcome": "touch",
+    "def_speed": 0.20013554383995802,
+    "moving": 0.8571428571428571,
+    "close_s": 1.0999999999999996,
+    "first_close": 7.6,
+    "deepest": 0.96,
+    "block_after_touch": 0.0,
+    "raid_s": 10.8
+   },
+   {
+    "seed": 50014,
+    "outcome": "touch",
+    "def_speed": 0.21990112023609304,
+    "moving": 0.8338150289017341,
+    "close_s": 6.899999999999999,
+    "first_close": 7.699999999999999,
+    "deepest": 1.661,
+    "block_after_touch": 0.5759162303664922,
+    "raid_s": 17.25
+   }
+  ]
+ },
+ "3 def A": {
+  "sim": [
+   {
+    "seed": 50000,
+    "outcome": "empty",
+    "def_speed": 0.09388956515883609,
+    "moving": 0.5658914728682171,
+    "close_s": 0.0,
+    "first_close": null,
+    "deepest": 0.5197521448135376,
+    "block_after_touch": null,
+    "raid_s": 8.35
+   },
+   {
+    "seed": 50001,
+    "outcome": "out",
+    "def_speed": 0.1155287190082642,
+    "moving": 0.7244444444444444,
+    "close_s": 6.150000000000002,
+    "first_close": 8.8,
+    "deepest": 1.0989068746566772,
+    "block_after_touch": 1.0,
+    "raid_s": 14.750000000000002
+   },
+   {
+    "seed": 50002,
+    "outcome": "out",
+    "def_speed": 0.12727142297012115,
+    "moving": 0.7511111111111111,
+    "close_s": 4.9,
+    "first_close": 10.0,
+    "deepest": 1.2959779500961304,
+    "block_after_touch": 1.0,
+    "raid_s": 14.700000000000001
+   },
+   {
+    "seed": 50003,
+    "outcome": "empty",
+    "def_speed": 0.09618027466427745,
+    "moving": 0.6666666666666666,
+    "close_s": 0.0,
+    "first_close": null,
+    "deepest": 0.7614303827285767,
+    "block_after_touch": null,
+    "raid_s": 10.05
+   },
+   {
+    "seed": 50004,
+    "outcome": "empty",
+    "def_speed": 0.12666527748041453,
+    "moving": 0.7391304347826086,
+    "close_s": 0.0,
+    "first_close": null,
+    "deepest": 0.5198072195053101,
+    "block_after_touch": null,
+    "raid_s": 9.000000000000002
+   },
+   {
+    "seed": 50005,
+    "outcome": "touch",
+    "def_speed": 0.12778997844572834,
+    "moving": 0.7043010752688172,
+    "close_s": 0.40000000000000036,
+    "first_close": 7.4,
+    "deepest": 0.8764445185661316,
+    "block_after_touch": 0.08,
+    "raid_s": 12.100000000000001
+   },
+   {
+    "seed": 50006,
+    "outcome": "out",
+    "def_speed": 0.12012649009694278,
+    "moving": 0.7560975609756098,
+    "close_s": 6.800000000000001,
+    "first_close": 9.6,
+    "deepest": 1.2084802389144897,
+    "block_after_touch": 1.0,
+    "raid_s": 16.200000000000003
+   },
+   {
+    "seed": 50007,
+    "outcome": "out",
+    "def_speed": 0.11741540246263868,
+    "moving": 0.7644927536231884,
+    "close_s": 8.450000000000001,
+    "first_close": 9.8,
+    "deepest": 1.2425425052642822,
+    "block_after_touch": 1.0,
+    "raid_s": 18.05
+   },
+   {
+    "seed": 50008,
+    "outcome": "out",
+    "def_speed": 0.11900042004528409,
+    "moving": 0.7432432432432432,
+    "close_s": 5.449999999999999,
+    "first_close": 9.2,
+    "deepest": 1.1912062168121338,
+    "block_after_touch": 1.0,
+    "raid_s": 14.45
+   },
+   {
+    "seed": 50009,
+    "outcome": "empty",
+    "def_speed": 0.09793503834769515,
+    "moving": 0.615819209039548,
+    "close_s": 0.0,
+    "first_close": null,
+    "deepest": 0.7288475036621094,
+    "block_after_touch": null,
+    "raid_s": 11.55
+   },
+   {
+    "seed": 50010,
+    "outcome": "out",
+    "def_speed": 0.12770522532757062,
+    "moving": 0.8143939393939394,
+    "close_s": 7.450000000000001,
+    "first_close": 10.000000000000002,
+    "deepest": 1.2116217613220215,
+    "block_after_touch": 1.0,
+    "raid_s": 17.25
+   },
+   {
+    "seed": 50011,
+    "outcome": "out",
+    "def_speed": 0.12119118538664789,
+    "moving": 0.7695473251028807,
+    "close_s": 5.65,
+    "first_close": 10.4,
+    "deepest": 1.1861125230789185,
+    "block_after_touch": 1.0,
+    "raid_s": 15.850000000000001
+   },
+   {
+    "seed": 50012,
+    "outcome": "out",
+    "def_speed": 0.10712208732969006,
+    "moving": 0.7060931899641577,
+    "close_s": 7.8000000000000025,
+    "first_close": 10.8,
+    "deepest": 1.336388349533081,
+    "block_after_touch": 1.0,
+    "raid_s": 18.400000000000002
+   },
+   {
+    "seed": 50013,
+    "outcome": "empty",
+    "def_speed": 0.09583289443920542,
+    "moving": 0.6527777777777778,
+    "close_s": 0.0,
+    "first_close": null,
+    "deepest": 0.8088982701301575,
+    "block_after_touch": null,
+    "raid_s": 14.200000000000001
+   },
+   {
+    "seed": 50014,
+    "outcome": "out",
+    "def_speed": 0.12077425075768065,
+    "moving": 0.7652582159624414,
+    "close_s": 4.850000000000001,
+    "first_close": 9.2,
+    "deepest": 1.182999610900879,
+    "block_after_touch": 1.0,
+    "raid_s": 13.850000000000001
+   }
+  ],
+  "robots": [
+   {
+    "seed": 50000,
+    "outcome": "touch",
+    "def_speed": 0.18246702074984547,
+    "moving": 0.8050595238095238,
+    "close_s": 12.249999999999996,
+    "first_close": 7.25,
+    "deepest": 1.6110000000000002,
+    "block_after_touch": 0.9304635761589404,
+    "raid_s": 22.349999999999998
+   },
+   {
+    "seed": 50001,
+    "outcome": "touch",
+    "def_speed": 0.14628822401471667,
+    "moving": 0.6371049949031601,
+    "close_s": 2.5999999999999996,
+    "first_close": 8.9,
+    "deepest": 0.835,
+    "block_after_touch": 0.18243243243243243,
+    "raid_s": 16.3
+   },
+   {
+    "seed": 50002,
+    "outcome": "touch",
+    "def_speed": 0.1609134198025289,
+    "moving": 0.7433155080213903,
+    "close_s": 5.050000000000001,
+    "first_close": 10.649999999999999,
+    "deepest": 1.3450000000000002,
+    "block_after_touch": 0.48125,
+    "raid_s": 18.650000000000002
+   },
+   {
+    "seed": 50003,
+    "outcome": "empty",
+    "def_speed": 0.1271011406498272,
+    "moving": 0.6353383458646616,
+    "close_s": 0.0,
+    "first_close": null,
+    "deepest": 0.6440000000000001,
+    "block_after_touch": null,
+    "raid_s": 13.250000000000002
+   },
+   {
+    "seed": 50004,
+    "outcome": "touch",
+    "def_speed": 0.17290081439516247,
+    "moving": 0.7645390070921986,
+    "close_s": 2.950000000000001,
+    "first_close": 6.6,
+    "deepest": 0.7759999999999998,
+    "block_after_touch": 0.0,
+    "raid_s": 11.7
+   },
+   {
+    "seed": 50005,
+    "outcome": "touch",
+    "def_speed": 0.1803239832337492,
+    "moving": 0.796969696969697,
+    "close_s": 5.4499999999999975,
+    "first_close": 7.0,
+    "deepest": 1.641,
+    "block_after_touch": 0.7566137566137566,
+    "raid_s": 16.45
+   },
+   {
+    "seed": 50006,
+    "outcome": "touch",
+    "def_speed": 0.13502815778661295,
+    "moving": 0.5659574468085107,
+    "close_s": 0.5999999999999996,
+    "first_close": 8.100000000000001,
+    "deepest": 0.7210000000000001,
+    "block_after_touch": 0.013888888888888888,
+    "raid_s": 11.700000000000001
+   },
+   {
+    "seed": 50007,
+    "outcome": "touch",
+    "def_speed": 0.18905856079233033,
+    "moving": 0.7797202797202797,
+    "close_s": 4.5,
+    "first_close": 7.4,
+    "deepest": 1.5550000000000002,
+    "block_after_touch": 0.656934306569343,
+    "raid_s": 14.249999999999998
+   },
+   {
+    "seed": 50008,
+    "outcome": "touch",
+    "def_speed": 0.18973629951535562,
+    "moving": 0.7804878048780488,
+    "close_s": 0.6500000000000004,
+    "first_close": 5.0,
+    "deepest": 1.287,
+    "block_after_touch": 0.0,
+    "raid_s": 10.2
+   },
+   {
+    "seed": 50009,
+    "outcome": "foul",
+    "def_speed": 0.17870234885110334,
+    "moving": 0.7737520128824477,
+    "close_s": 10.400000000000002,
+    "first_close": 7.6499999999999995,
+    "deepest": 1.553,
+    "block_after_touch": 0.9923076923076923,
+    "raid_s": 20.650000000000002
+   },
+   {
+    "seed": 50010,
+    "outcome": "touch",
+    "def_speed": 0.16665482510243323,
+    "moving": 0.7103658536585366,
+    "close_s": 4.3000000000000025,
+    "first_close": 7.45,
+    "deepest": 1.593,
+    "block_after_touch": 0.4887640449438202,
+    "raid_s": 16.349999999999998
+   },
+   {
+    "seed": 50011,
+    "outcome": "touch",
+    "def_speed": 0.1855702635678269,
+    "moving": 0.7708920187793428,
+    "close_s": 5.149999999999999,
+    "first_close": 6.25,
+    "deepest": 1.4609999999999999,
+    "block_after_touch": 0.6855895196506551,
+    "raid_s": 17.7
+   },
+   {
+    "seed": 50012,
+    "outcome": "touch",
+    "def_speed": 0.18507429107296805,
+    "moving": 0.8736059479553904,
+    "close_s": 1.6500000000000004,
+    "first_close": 6.7,
+    "deepest": 1.387,
+    "block_after_touch": 0.029850746268656716,
+    "raid_s": 13.399999999999999
+   },
+   {
+    "seed": 50013,
+    "outcome": "touch",
+    "def_speed": 0.19070285477258786,
+    "moving": 0.7832744405182568,
+    "close_s": 3.8000000000000007,
+    "first_close": 8.95,
+    "deepest": 1.153,
+    "block_after_touch": 0.27184466019417475,
+    "raid_s": 14.100000000000001
+   },
+   {
+    "seed": 50014,
+    "outcome": "foul",
+    "def_speed": 0.17623505533564646,
+    "moving": 0.7582417582417582,
+    "close_s": 2.7500000000000018,
+    "first_close": 10.0,
+    "deepest": 1.033,
+    "block_after_touch": 0.625,
+    "raid_s": 13.6
+   }
+  ]
+ }
+}

@@ -1,0 +1,3 @@
+raid,seed,raider,defence,n_def,gate,kind,out_defenders,t_s,contact,note,fake,def_start,pairs,raider_rule,start_off_cm_max,media
+1,50009,learned,learned,1,,timer,,32.6,1,,0,"1.0,1.5",accepted,deep,8.6,discarded
+2,50010,learned,learned,1,,pushed_out,,17.2,1,,0,"1.0,1.5",accepted,deep,8.7,discarded

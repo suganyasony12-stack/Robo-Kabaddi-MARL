@@ -1,0 +1,1590 @@
+{
+ "hold_s": 4.0,
+ "touch_m": 0.19,
+ "still_m": 0.1,
+ "check_4s": {
+  "same": 180,
+  "n": 180,
+  "differences": {}
+ },
+ "cases": [
+  {
+   "case": "1 def, learned raider vs learned",
+   "n": 15,
+   "points_logged": 5,
+   "points_rescored": 5,
+   "held_logged": 0,
+   "held_rescored": 0,
+   "changed": [],
+   "raids": [
+    {
+     "seed": 50000,
+     "session": "session_2026-11-13_150716",
+     "logged": "foul",
+     "logged_t": 9.4,
+     "rescored": "foul",
+     "held_t": null
+    },
+    {
+     "seed": 50001,
+     "session": "session_2026-11-13_150716",
+     "logged": "walked_out",
+     "logged_t": 12.5,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50002,
+     "session": "session_2026-11-13_150716",
+     "logged": "touch",
+     "logged_t": 24.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50003,
+     "session": "session_2026-11-13_150716",
+     "logged": "empty",
+     "logged_t": 16.2,
+     "rescored": "empty",
+     "held_t": null
+    },
+    {
+     "seed": 50004,
+     "session": "session_2026-11-13_150716",
+     "logged": "pushed_out",
+     "logged_t": 13.2,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50005,
+     "session": "session_2026-11-13_150716",
+     "logged": "walked_out",
+     "logged_t": 8.9,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50006,
+     "session": "session_2026-11-13_150716",
+     "logged": "pushed_out",
+     "logged_t": 14.8,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50007,
+     "session": "session_2026-11-13_150716",
+     "logged": "touch",
+     "logged_t": 25.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50008,
+     "session": "session_2026-11-13_150716",
+     "logged": "touch",
+     "logged_t": 18.5,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50009,
+     "session": "session_2026-11-13_150716",
+     "logged": "timer",
+     "logged_t": 31.9,
+     "rescored": "timer",
+     "held_t": null
+    },
+    {
+     "seed": 50010,
+     "session": "session_2026-11-13_152744",
+     "logged": "timer",
+     "logged_t": 31.5,
+     "rescored": "timer",
+     "held_t": null
+    },
+    {
+     "seed": 50011,
+     "session": "session_2026-11-13_152744",
+     "logged": "touch",
+     "logged_t": 26.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50012,
+     "session": "session_2026-11-13_152744",
+     "logged": "walked_out",
+     "logged_t": 18.9,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50013,
+     "session": "session_2026-11-13_153548",
+     "logged": "walked_out",
+     "logged_t": 9.7,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50014,
+     "session": "session_2026-11-13_152744",
+     "logged": "walked_out",
+     "logged_t": 16.4,
+     "rescored": "walked_out",
+     "held_t": null
+    }
+   ]
+  },
+  {
+   "case": "1 def, learned raider + rule vs learned",
+   "n": 15,
+   "points_logged": 4,
+   "points_rescored": 4,
+   "held_logged": 0,
+   "held_rescored": 0,
+   "changed": [],
+   "raids": [
+    {
+     "seed": 50000,
+     "session": "session_2026-11-13_130525",
+     "logged": "pushed_out",
+     "logged_t": 19.2,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50001,
+     "session": "session_2026-11-13_130820",
+     "logged": "pushed_out",
+     "logged_t": 17.4,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50002,
+     "session": "session_2026-11-13_130820",
+     "logged": "walked_out",
+     "logged_t": 12.9,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50003,
+     "session": "session_2026-11-13_130820",
+     "logged": "touch",
+     "logged_t": 19.9,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50004,
+     "session": "session_2026-11-13_130820",
+     "logged": "walked_out",
+     "logged_t": 11.8,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50005,
+     "session": "session_2026-11-13_130820",
+     "logged": "touch",
+     "logged_t": 26.8,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50006,
+     "session": "session_2026-11-13_131834",
+     "logged": "walked_out",
+     "logged_t": 16.2,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50007,
+     "session": "session_2026-11-13_131834",
+     "logged": "walked_out",
+     "logged_t": 10.5,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50008,
+     "session": "session_2026-11-13_130820",
+     "logged": "pushed_out",
+     "logged_t": 16.2,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50009,
+     "session": "session_2026-11-13_145557",
+     "logged": "timer",
+     "logged_t": 32.6,
+     "rescored": "timer",
+     "held_t": null
+    },
+    {
+     "seed": 50010,
+     "session": "session_2026-11-13_145557",
+     "logged": "pushed_out",
+     "logged_t": 17.2,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50011,
+     "session": "session_2026-11-13_132921",
+     "logged": "touch",
+     "logged_t": 18.7,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50012,
+     "session": "session_2026-11-13_145803",
+     "logged": "touch",
+     "logged_t": 16.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50013,
+     "session": "session_2026-11-13_132921",
+     "logged": "pushed_out",
+     "logged_t": 19.6,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50014,
+     "session": "session_2026-11-13_132921",
+     "logged": "walked_out",
+     "logged_t": 17.1,
+     "rescored": "walked_out",
+     "held_t": null
+    }
+   ]
+  },
+  {
+   "case": "1 def, learned raider + rule vs scripted v8",
+   "n": 15,
+   "points_logged": 14,
+   "points_rescored": 14,
+   "held_logged": 0,
+   "held_rescored": 0,
+   "changed": [],
+   "raids": [
+    {
+     "seed": 50000,
+     "session": "session_2026-11-13_155951",
+     "logged": "touch",
+     "logged_t": 18.4,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50001,
+     "session": "session_2026-11-13_155951",
+     "logged": "touch",
+     "logged_t": 14.3,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50002,
+     "session": "session_2026-11-13_155951",
+     "logged": "walked_out",
+     "logged_t": 13.7,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50003,
+     "session": "session_2026-11-13_160954",
+     "logged": "touch",
+     "logged_t": 19.3,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50004,
+     "session": "session_2026-11-13_155951",
+     "logged": "touch",
+     "logged_t": 16.1,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50005,
+     "session": "session_2026-11-13_155951",
+     "logged": "touch",
+     "logged_t": 20.5,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50006,
+     "session": "session_2026-11-13_155951",
+     "logged": "touch",
+     "logged_t": 15.8,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50007,
+     "session": "session_2026-11-13_155951",
+     "logged": "touch",
+     "logged_t": 22.0,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50008,
+     "session": "session_2026-11-13_155951",
+     "logged": "touch",
+     "logged_t": 18.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50009,
+     "session": "session_2026-11-13_155951",
+     "logged": "touch",
+     "logged_t": 14.8,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50010,
+     "session": "session_2026-11-13_155951",
+     "logged": "touch",
+     "logged_t": 21.1,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50011,
+     "session": "session_2026-11-13_155951",
+     "logged": "touch",
+     "logged_t": 14.7,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50012,
+     "session": "session_2026-11-13_155951",
+     "logged": "touch",
+     "logged_t": 16.7,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50013,
+     "session": "session_2026-11-13_155951",
+     "logged": "touch",
+     "logged_t": 15.9,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50014,
+     "session": "session_2026-11-13_155951",
+     "logged": "touch",
+     "logged_t": 17.9,
+     "rescored": "touch",
+     "held_t": null
+    }
+   ]
+  },
+  {
+   "case": "1 def, scripted raider vs learned",
+   "n": 15,
+   "points_logged": 12,
+   "points_rescored": 12,
+   "held_logged": 1,
+   "held_rescored": 1,
+   "changed": [],
+   "raids": [
+    {
+     "seed": 50000,
+     "session": "session_2026-11-13_155021",
+     "logged": "touch",
+     "logged_t": 21.9,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50001,
+     "session": "session_2026-11-13_155021",
+     "logged": "touch",
+     "logged_t": 20.8,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50002,
+     "session": "session_2026-11-13_153741",
+     "logged": "touch",
+     "logged_t": 27.5,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50003,
+     "session": "session_2026-11-13_153741",
+     "logged": "touch",
+     "logged_t": 23.4,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50004,
+     "session": "session_2026-11-13_153741",
+     "logged": "held",
+     "logged_t": 31.2,
+     "rescored": "held",
+     "held_t": null
+    },
+    {
+     "seed": 50005,
+     "session": "session_2026-11-13_153741",
+     "logged": "pushed_out",
+     "logged_t": 30.5,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50006,
+     "session": "session_2026-11-13_153741",
+     "logged": "pushed_out",
+     "logged_t": 11.0,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50007,
+     "session": "session_2026-11-13_153741",
+     "logged": "touch",
+     "logged_t": 19.8,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50008,
+     "session": "session_2026-11-13_155231",
+     "logged": "touch",
+     "logged_t": 18.1,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50009,
+     "session": "session_2026-11-13_153741",
+     "logged": "touch",
+     "logged_t": 21.1,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50010,
+     "session": "session_2026-11-13_153741",
+     "logged": "touch",
+     "logged_t": 21.0,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50011,
+     "session": "session_2026-11-13_153741",
+     "logged": "touch",
+     "logged_t": 12.5,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50012,
+     "session": "session_2026-11-13_153741",
+     "logged": "touch",
+     "logged_t": 10.9,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50013,
+     "session": "session_2026-11-13_153741",
+     "logged": "touch",
+     "logged_t": 21.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50014,
+     "session": "session_2026-11-13_153741",
+     "logged": "touch",
+     "logged_t": 15.9,
+     "rescored": "touch",
+     "held_t": null
+    }
+   ]
+  },
+  {
+   "case": "2 def, learned raider vs learned",
+   "n": 15,
+   "points_logged": 4,
+   "points_rescored": 4,
+   "held_logged": 0,
+   "held_rescored": 0,
+   "changed": [],
+   "raids": [
+    {
+     "seed": 50000,
+     "session": "session_2026-11-13_164336",
+     "logged": "walked_out",
+     "logged_t": 20.5,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50001,
+     "session": "session_2026-11-13_164336",
+     "logged": "touch",
+     "logged_t": 16.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50002,
+     "session": "session_2026-11-13_164336",
+     "logged": "pushed_out",
+     "logged_t": 16.9,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50003,
+     "session": "session_2026-11-13_164336",
+     "logged": "pushed_out",
+     "logged_t": 14.0,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50004,
+     "session": "session_2026-11-13_164336",
+     "logged": "walked_out",
+     "logged_t": 15.7,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50005,
+     "session": "session_2026-11-13_164336",
+     "logged": "touch",
+     "logged_t": 19.0,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50006,
+     "session": "session_2026-11-13_164336",
+     "logged": "touch",
+     "logged_t": 18.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50007,
+     "session": "session_2026-11-13_164336",
+     "logged": "pushed_out",
+     "logged_t": 23.9,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50008,
+     "session": "session_2026-11-13_164336",
+     "logged": "walked_out",
+     "logged_t": 22.4,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50009,
+     "session": "session_2026-11-13_164336",
+     "logged": "pushed_out",
+     "logged_t": 12.3,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50010,
+     "session": "session_2026-11-13_164336",
+     "logged": "pushed_out",
+     "logged_t": 13.0,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50011,
+     "session": "session_2026-11-13_164336",
+     "logged": "pushed_out",
+     "logged_t": 15.1,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50012,
+     "session": "session_2026-11-13_164336",
+     "logged": "walked_out",
+     "logged_t": 15.9,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50013,
+     "session": "session_2026-11-13_164336",
+     "logged": "pushed_out",
+     "logged_t": 14.7,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50014,
+     "session": "session_2026-11-13_164336",
+     "logged": "touch",
+     "logged_t": 15.8,
+     "rescored": "touch",
+     "held_t": null
+    }
+   ]
+  },
+  {
+   "case": "2 def, learned raider + rule vs learned",
+   "n": 15,
+   "points_logged": 6,
+   "points_rescored": 5,
+   "held_logged": 0,
+   "held_rescored": 1,
+   "changed": [
+    "50013 touch->held@18.4s"
+   ],
+   "raids": [
+    {
+     "seed": 50000,
+     "session": "session_2026-11-13_162038",
+     "logged": "touch",
+     "logged_t": 14.4,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50001,
+     "session": "session_2026-11-13_162038",
+     "logged": "touch",
+     "logged_t": 19.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50002,
+     "session": "session_2026-11-13_162038",
+     "logged": "pushed_out",
+     "logged_t": 20.5,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50003,
+     "session": "session_2026-11-13_162038",
+     "logged": "pushed_out",
+     "logged_t": 26.2,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50004,
+     "session": "session_2026-11-13_162038",
+     "logged": "walked_out",
+     "logged_t": 9.5,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50005,
+     "session": "session_2026-11-13_162038",
+     "logged": "walked_out",
+     "logged_t": 9.5,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50006,
+     "session": "session_2026-11-13_162038",
+     "logged": "pushed_out",
+     "logged_t": 18.2,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50007,
+     "session": "session_2026-11-13_162038",
+     "logged": "walked_out",
+     "logged_t": 19.8,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50008,
+     "session": "session_2026-11-13_164043",
+     "logged": "pushed_out",
+     "logged_t": 13.2,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50009,
+     "session": "session_2026-11-13_162038",
+     "logged": "foul",
+     "logged_t": 12.5,
+     "rescored": "foul",
+     "held_t": null
+    },
+    {
+     "seed": 50010,
+     "session": "session_2026-11-13_162038",
+     "logged": "walked_out",
+     "logged_t": 20.1,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50011,
+     "session": "session_2026-11-13_162038",
+     "logged": "touch",
+     "logged_t": 22.7,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50012,
+     "session": "session_2026-11-13_164149",
+     "logged": "walked_out",
+     "logged_t": 8.6,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50013,
+     "session": "session_2026-11-13_162038",
+     "logged": "touch",
+     "logged_t": 26.7,
+     "rescored": "held",
+     "held_t": 18.45
+    },
+    {
+     "seed": 50014,
+     "session": "session_2026-11-13_162038",
+     "logged": "touch",
+     "logged_t": 12.0,
+     "rescored": "touch",
+     "held_t": null
+    }
+   ]
+  },
+  {
+   "case": "2 def, learned raider + rule vs scripted v8",
+   "n": 15,
+   "points_logged": 12,
+   "points_rescored": 12,
+   "held_logged": 1,
+   "held_rescored": 1,
+   "changed": [],
+   "raids": [
+    {
+     "seed": 50000,
+     "session": "session_2026-11-13_171426",
+     "logged": "touch",
+     "logged_t": 20.8,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50001,
+     "session": "session_2026-11-13_174555",
+     "logged": "walked_out",
+     "logged_t": 15.2,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50002,
+     "session": "session_2026-11-13_171426",
+     "logged": "touch",
+     "logged_t": 17.8,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50003,
+     "session": "session_2026-11-13_171426",
+     "logged": "touch",
+     "logged_t": 16.0,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50004,
+     "session": "session_2026-11-13_171426",
+     "logged": "touch",
+     "logged_t": 21.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50005,
+     "session": "session_2026-11-13_174145",
+     "logged": "touch",
+     "logged_t": 19.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50006,
+     "session": "session_2026-11-13_171426",
+     "logged": "touch",
+     "logged_t": 17.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50007,
+     "session": "session_2026-11-13_171426",
+     "logged": "held",
+     "logged_t": 16.2,
+     "rescored": "held",
+     "held_t": null
+    },
+    {
+     "seed": 50008,
+     "session": "session_2026-11-13_174331",
+     "logged": "touch",
+     "logged_t": 22.1,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50009,
+     "session": "session_2026-11-13_171426",
+     "logged": "touch",
+     "logged_t": 15.0,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50010,
+     "session": "session_2026-11-13_171426",
+     "logged": "touch",
+     "logged_t": 16.0,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50011,
+     "session": "session_2026-11-13_171426",
+     "logged": "touch",
+     "logged_t": 17.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50012,
+     "session": "session_2026-11-13_171426",
+     "logged": "touch",
+     "logged_t": 17.0,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50013,
+     "session": "session_2026-11-13_171426",
+     "logged": "walked_out",
+     "logged_t": 10.8,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50014,
+     "session": "session_2026-11-13_174437",
+     "logged": "touch",
+     "logged_t": 14.8,
+     "rescored": "touch",
+     "held_t": null
+    }
+   ]
+  },
+  {
+   "case": "2 def, scripted raider vs learned",
+   "n": 15,
+   "points_logged": 14,
+   "points_rescored": 13,
+   "held_logged": 1,
+   "held_rescored": 2,
+   "changed": [
+    "50009 touch->held@14.3s"
+   ],
+   "raids": [
+    {
+     "seed": 50000,
+     "session": "session_2026-11-13_165737",
+     "logged": "touch",
+     "logged_t": 17.7,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50001,
+     "session": "session_2026-11-13_165737",
+     "logged": "touch",
+     "logged_t": 15.0,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50002,
+     "session": "session_2026-11-13_165737",
+     "logged": "held",
+     "logged_t": 30.2,
+     "rescored": "held",
+     "held_t": null
+    },
+    {
+     "seed": 50003,
+     "session": "session_2026-11-13_165737",
+     "logged": "touch",
+     "logged_t": 15.7,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50004,
+     "session": "session_2026-11-13_165737",
+     "logged": "touch",
+     "logged_t": 13.0,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50005,
+     "session": "session_2026-11-13_171104",
+     "logged": "touch",
+     "logged_t": 15.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50006,
+     "session": "session_2026-11-13_165737",
+     "logged": "touch",
+     "logged_t": 11.7,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50007,
+     "session": "session_2026-11-13_165737",
+     "logged": "touch",
+     "logged_t": 10.0,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50008,
+     "session": "session_2026-11-13_165737",
+     "logged": "touch",
+     "logged_t": 15.8,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50009,
+     "session": "session_2026-11-13_171133",
+     "logged": "touch",
+     "logged_t": 21.7,
+     "rescored": "held",
+     "held_t": 14.35
+    },
+    {
+     "seed": 50010,
+     "session": "session_2026-11-13_165737",
+     "logged": "touch",
+     "logged_t": 14.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50011,
+     "session": "session_2026-11-13_165737",
+     "logged": "touch",
+     "logged_t": 16.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50012,
+     "session": "session_2026-11-13_171231",
+     "logged": "touch",
+     "logged_t": 16.9,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50013,
+     "session": "session_2026-11-13_165737",
+     "logged": "touch",
+     "logged_t": 12.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50014,
+     "session": "session_2026-11-13_165737",
+     "logged": "touch",
+     "logged_t": 18.7,
+     "rescored": "touch",
+     "held_t": null
+    }
+   ]
+  },
+  {
+   "case": "3 def, learned raider vs learned",
+   "n": 15,
+   "points_logged": 14,
+   "points_rescored": 14,
+   "held_logged": 0,
+   "held_rescored": 0,
+   "changed": [],
+   "raids": [
+    {
+     "seed": 50000,
+     "session": "session_2026-11-13_184257",
+     "logged": "touch",
+     "logged_t": 24.0,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50001,
+     "session": "session_2026-11-13_184257",
+     "logged": "touch",
+     "logged_t": 18.8,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50002,
+     "session": "session_2026-11-13_184257",
+     "logged": "touch",
+     "logged_t": 21.1,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50003,
+     "session": "session_2026-11-13_184257",
+     "logged": "empty",
+     "logged_t": 16.1,
+     "rescored": "empty",
+     "held_t": null
+    },
+    {
+     "seed": 50004,
+     "session": "session_2026-11-13_184257",
+     "logged": "touch",
+     "logged_t": 13.4,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50005,
+     "session": "session_2026-11-13_184257",
+     "logged": "touch",
+     "logged_t": 17.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50006,
+     "session": "session_2026-11-13_190142",
+     "logged": "touch",
+     "logged_t": 13.4,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50007,
+     "session": "session_2026-11-13_184257",
+     "logged": "touch",
+     "logged_t": 16.4,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50008,
+     "session": "session_2026-11-13_184257",
+     "logged": "touch",
+     "logged_t": 12.7,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50009,
+     "session": "session_2026-11-13_184257",
+     "logged": "foul",
+     "logged_t": 22.4,
+     "rescored": "foul",
+     "held_t": null
+    },
+    {
+     "seed": 50010,
+     "session": "session_2026-11-13_184257",
+     "logged": "touch",
+     "logged_t": 18.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50011,
+     "session": "session_2026-11-13_184257",
+     "logged": "touch",
+     "logged_t": 18.9,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50012,
+     "session": "session_2026-11-13_184257",
+     "logged": "touch",
+     "logged_t": 15.9,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50013,
+     "session": "session_2026-11-13_184257",
+     "logged": "touch",
+     "logged_t": 16.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50014,
+     "session": "session_2026-11-13_184257",
+     "logged": "foul",
+     "logged_t": 15.2,
+     "rescored": "foul",
+     "held_t": null
+    }
+   ]
+  },
+  {
+   "case": "3 def, learned raider + rule vs learned",
+   "n": 15,
+   "points_logged": 10,
+   "points_rescored": 10,
+   "held_logged": 0,
+   "held_rescored": 1,
+   "changed": [
+    "50009 pushed_out->held@25.6s"
+   ],
+   "raids": [
+    {
+     "seed": 50000,
+     "session": "session_2026-11-13_183845",
+     "logged": "pushed_out",
+     "logged_t": 17.8,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50001,
+     "session": "session_2026-11-13_183845",
+     "logged": "touch",
+     "logged_t": 16.7,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50002,
+     "session": "session_2026-11-13_181800",
+     "logged": "walked_out",
+     "logged_t": 22.5,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50003,
+     "session": "session_2026-11-13_181800",
+     "logged": "touch",
+     "logged_t": 21.8,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50004,
+     "session": "session_2026-11-13_181800",
+     "logged": "foul",
+     "logged_t": 20.2,
+     "rescored": "foul",
+     "held_t": null
+    },
+    {
+     "seed": 50005,
+     "session": "session_2026-11-13_181800",
+     "logged": "touch",
+     "logged_t": 16.9,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50006,
+     "session": "session_2026-11-13_181800",
+     "logged": "touch",
+     "logged_t": 18.3,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50007,
+     "session": "session_2026-11-13_181800",
+     "logged": "touch",
+     "logged_t": 28.9,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50008,
+     "session": "session_2026-11-13_181800",
+     "logged": "walked_out",
+     "logged_t": 25.4,
+     "rescored": "walked_out",
+     "held_t": null
+    },
+    {
+     "seed": 50009,
+     "session": "session_2026-11-13_181800",
+     "logged": "pushed_out",
+     "logged_t": 26.8,
+     "rescored": "held",
+     "held_t": 25.55
+    },
+    {
+     "seed": 50010,
+     "session": "session_2026-11-13_181800",
+     "logged": "touch",
+     "logged_t": 18.1,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50011,
+     "session": "session_2026-11-13_181800",
+     "logged": "touch",
+     "logged_t": 21.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50012,
+     "session": "session_2026-11-13_181800",
+     "logged": "touch",
+     "logged_t": 18.0,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50013,
+     "session": "session_2026-11-13_181800",
+     "logged": "pushed_out",
+     "logged_t": 16.1,
+     "rescored": "pushed_out",
+     "held_t": null
+    },
+    {
+     "seed": 50014,
+     "session": "session_2026-11-13_181800",
+     "logged": "touch",
+     "logged_t": 15.0,
+     "rescored": "touch",
+     "held_t": null
+    }
+   ]
+  },
+  {
+   "case": "3 def, learned raider + rule vs scripted v8",
+   "n": 15,
+   "points_logged": 14,
+   "points_rescored": 14,
+   "held_logged": 0,
+   "held_rescored": 0,
+   "changed": [],
+   "raids": [
+    {
+     "seed": 50000,
+     "session": "session_2026-11-13_192525",
+     "logged": "touch",
+     "logged_t": 18.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50001,
+     "session": "session_2026-11-13_192525",
+     "logged": "touch",
+     "logged_t": 19.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50002,
+     "session": "session_2026-11-13_192525",
+     "logged": "touch",
+     "logged_t": 19.9,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50003,
+     "session": "session_2026-11-13_192525",
+     "logged": "touch",
+     "logged_t": 26.7,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50004,
+     "session": "session_2026-11-13_192525",
+     "logged": "touch",
+     "logged_t": 18.7,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50005,
+     "session": "session_2026-11-13_192525",
+     "logged": "touch",
+     "logged_t": 17.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50006,
+     "session": "session_2026-11-13_192525",
+     "logged": "touch",
+     "logged_t": 15.9,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50007,
+     "session": "session_2026-11-13_194111",
+     "logged": "touch",
+     "logged_t": 22.5,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50008,
+     "session": "session_2026-11-13_192525",
+     "logged": "touch",
+     "logged_t": 17.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50009,
+     "session": "session_2026-11-13_192525",
+     "logged": "touch",
+     "logged_t": 20.1,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50010,
+     "session": "session_2026-11-13_192525",
+     "logged": "touch",
+     "logged_t": 19.0,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50011,
+     "session": "session_2026-11-13_194212",
+     "logged": "touch",
+     "logged_t": 19.5,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50012,
+     "session": "session_2026-11-13_192525",
+     "logged": "touch",
+     "logged_t": 30.4,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50013,
+     "session": "session_2026-11-13_192525",
+     "logged": "touch",
+     "logged_t": 20.8,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50014,
+     "session": "session_2026-11-13_192525",
+     "logged": "timer",
+     "logged_t": 31.4,
+     "rescored": "timer",
+     "held_t": null
+    }
+   ]
+  },
+  {
+   "case": "3 def, scripted raider vs learned",
+   "n": 15,
+   "points_logged": 12,
+   "points_rescored": 12,
+   "held_logged": 2,
+   "held_rescored": 2,
+   "changed": [],
+   "raids": [
+    {
+     "seed": 50000,
+     "session": "session_2026-11-13_190331",
+     "logged": "touch",
+     "logged_t": 16.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50001,
+     "session": "session_2026-11-13_190331",
+     "logged": "touch",
+     "logged_t": 15.2,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50002,
+     "session": "session_2026-11-13_190331",
+     "logged": "touch",
+     "logged_t": 29.7,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50003,
+     "session": "session_2026-11-13_191921",
+     "logged": "touch",
+     "logged_t": 32.1,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50004,
+     "session": "session_2026-11-13_190331",
+     "logged": "foul",
+     "logged_t": 7.2,
+     "rescored": "foul",
+     "held_t": null
+    },
+    {
+     "seed": 50005,
+     "session": "session_2026-11-13_190331",
+     "logged": "touch",
+     "logged_t": 21.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50006,
+     "session": "session_2026-11-13_190331",
+     "logged": "touch",
+     "logged_t": 12.8,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50007,
+     "session": "session_2026-11-13_190331",
+     "logged": "foul",
+     "logged_t": 4.5,
+     "rescored": "foul",
+     "held_t": null
+    },
+    {
+     "seed": 50008,
+     "session": "session_2026-11-13_190331",
+     "logged": "held",
+     "logged_t": 22.2,
+     "rescored": "held",
+     "held_t": null
+    },
+    {
+     "seed": 50009,
+     "session": "session_2026-11-13_190331",
+     "logged": "touch",
+     "logged_t": 11.6,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50010,
+     "session": "session_2026-11-13_190331",
+     "logged": "foul",
+     "logged_t": 6.4,
+     "rescored": "foul",
+     "held_t": null
+    },
+    {
+     "seed": 50011,
+     "session": "session_2026-11-13_190331",
+     "logged": "touch",
+     "logged_t": 19.8,
+     "rescored": "touch",
+     "held_t": null
+    },
+    {
+     "seed": 50012,
+     "session": "session_2026-11-13_190331",
+     "logged": "held",
+     "logged_t": 16.2,
+     "rescored": "held",
+     "held_t": null
+    },
+    {
+     "seed": 50013,
+     "session": "session_2026-11-13_192041",
+     "logged": "timer",
+     "logged_t": 35.9,
+     "rescored": "timer",
+     "held_t": null
+    },
+    {
+     "seed": 50014,
+     "session": "session_2026-11-13_192041",
+     "logged": "touch",
+     "logged_t": 17.5,
+     "rescored": "touch",
+     "held_t": null
+    }
+   ]
+  }
+ ]
+}

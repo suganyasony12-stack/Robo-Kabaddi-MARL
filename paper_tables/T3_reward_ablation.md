@@ -1,0 +1,11 @@
+### T3_reward_ablation: Reward ablation, 1 vs 1 against the v6 gate (%)
+
+| Reward | Touch | Tackle | Empty |
+|---|---|---|---|
+| Full reward | 99.8 [100, 100] | 0.1 [0, 0] | 0.0 [0, 0] |
+| No progress term | 100.0 [100, 100] | 0.0 [0, 0] | 0.0 [0, 0] |
+| No milestones | 87.2 [86, 88] | 0.0 [0, 0] | 12.8 [12, 14] |
+| No time penalty | 98.1 [98, 99] | 0.4 [0, 1] | 1.5 [1, 2] |
+| Outcome reward only | 87.8 [87, 89] | 4.1 [3, 5] | 8.1 [7, 9] |
+
+3 seeds x 1000 raids.

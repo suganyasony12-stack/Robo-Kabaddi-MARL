@@ -1,0 +1,1 @@
+def getDataPath(): return "/fake"

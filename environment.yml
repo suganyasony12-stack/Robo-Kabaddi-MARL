@@ -1,0 +1,15 @@
+name: kabaddi
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - gymnasium>=0.29
+      - stable-baselines3>=2.2
+      - pybullet>=3.2.5
+      - numpy>=1.24
+      - torch>=2.0
+      - opencv-contrib-python>=4.8
+      - matplotlib>=3.7
+      - pandas>=2.0

@@ -1,0 +1,6 @@
+raid,seed,raider,defence,n_def,gate,kind,out_defenders,t_s,raid_t_s,midline_t_s,contact,note,fake,def_start,pairs,raider_rule,start_off_cm_max,media
+1,50010,learned,learned,1,,timer,,31.5,30.0,1.5,1,,0,"1.0,1.5",accepted,,7.7,discarded
+2,50011,learned,learned,1,,touch,1,26.6,25.5,1.1,1,,0,"1.0,1.5",accepted,,7.8,discarded
+3,50012,learned,learned,1,,walked_out,,18.9,16.5,2.4,1,,0,"1.0,1.5",accepted,,7.5,media/raid03_seed50012
+4,50013,learned,learned,1,,stopped,,4.0,1.1,2.9,0,a robot lost Bluetooth,0,"1.0,1.5",accepted,,8.2,discarded
+5,50014,learned,learned,1,,walked_out,,16.4,14.8,1.7,1,,0,"1.0,1.5",accepted,,6.6,discarded

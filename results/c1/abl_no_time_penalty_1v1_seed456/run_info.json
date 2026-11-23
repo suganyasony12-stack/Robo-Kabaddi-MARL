@@ -1,0 +1,62 @@
+{
+  "run": "abl_no_time_penalty_1v1_seed456",
+  "spec": {
+    "algo": "ppo",
+    "n_def": 1,
+    "seed": 456,
+    "reward": {
+      "R_TIME": 0.0
+    },
+    "env": {},
+    "steps": 750000,
+    "pretrain": true
+  },
+  "steps": 750000,
+  "n_envs": 4,
+  "env_kwargs": {
+    "n_defenders": 1,
+    "locomotion": "planar_force",
+    "robot_shape": "box",
+    "defender_type": "gate",
+    "gate_style": "keepout",
+    "start_layout": "back_row",
+    "raider_start": "near_midline",
+    "raider_command": "hardware",
+    "action_repeat": 4,
+    "outcome_rules": "physical",
+    "static_time": 4.0,
+    "contact_model": "camera",
+    "contact_dist": 0.25,
+    "contact_min_depth": 0.2,
+    "contact_confirm_steps": 2,
+    "court_walls": false,
+    "empty_on_return": true
+  },
+  "hyperparameters": {
+    "learning_rate": 0.0001,
+    "n_steps": 2048,
+    "batch_size": 256,
+    "n_epochs": 10,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "clip_range": 0.15,
+    "ent_coef": 0.02,
+    "vf_coef": 0.5,
+    "max_grad_norm": 0.5,
+    "policy_kwargs": {
+      "net_arch": [
+        256,
+        256
+      ]
+    }
+  },
+  "stages": {
+    "pursuit": 250000,
+    "gate": 500000
+  },
+  "started": "2026-10-26 01:45:18",
+  "stage1_actual_decisions": 253952,
+  "total_actual_decisions": 761856,
+  "elapsed_min": 44.05,
+  "finished": "2026-10-26 02:29:21"
+}

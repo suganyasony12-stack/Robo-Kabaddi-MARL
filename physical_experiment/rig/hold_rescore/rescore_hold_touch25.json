@@ -1,0 +1,540 @@
+{
+ "touch_m": 0.25,
+ "note": "touching = the 0.25 m touch rule (author, 14 Nov); does not reproduce the logged 4 s results, which used box contact",
+ "cases": {
+  "1d A": {
+   "4s_5cm": {
+    "points": 5,
+    "held": 2,
+    "changed": [
+     "50009 timer->held@21.9s",
+     "50010 timer->held@20.9s"
+    ]
+   },
+   "4s_15cm": {
+    "points": 5,
+    "held": 2,
+    "changed": [
+     "50009 timer->held@19.2s",
+     "50010 timer->held@16.9s"
+    ]
+   },
+   "4s_25cm": {
+    "points": 4,
+    "held": 3,
+    "changed": [
+     "50009 timer->held@19.0s",
+     "50010 timer->held@16.9s",
+     "50011 touch->held@18.6s"
+    ]
+   },
+   "2s_15cm": {
+    "points": 4,
+    "held": 3,
+    "changed": [
+     "50009 timer->held@17.2s",
+     "50010 timer->held@14.9s",
+     "50011 touch->held@17.5s"
+    ]
+   },
+   "2s_25cm": {
+    "points": 4,
+    "held": 4,
+    "changed": [
+     "50009 timer->held@14.6s",
+     "50010 timer->held@14.9s",
+     "50011 touch->held@14.2s",
+     "50012 walked_out->held@15.6s"
+    ]
+   }
+  },
+  "1d A-rule": {
+   "4s_5cm": {
+    "points": 4,
+    "held": 1,
+    "changed": [
+     "50009 timer->held@16.4s"
+    ]
+   },
+   "4s_15cm": {
+    "points": 4,
+    "held": 2,
+    "changed": [
+     "50009 timer->held@16.4s",
+     "50010 pushed_out->held@15.1s"
+    ]
+   },
+   "4s_25cm": {
+    "points": 3,
+    "held": 3,
+    "changed": [
+     "50005 touch->held@18.6s",
+     "50009 timer->held@16.4s",
+     "50010 pushed_out->held@15.1s"
+    ]
+   },
+   "2s_15cm": {
+    "points": 3,
+    "held": 5,
+    "changed": [
+     "50000 pushed_out->held@16.3s",
+     "50005 touch->held@16.6s",
+     "50006 walked_out->held@12.9s",
+     "50009 timer->held@14.4s",
+     "50010 pushed_out->held@13.1s"
+    ]
+   },
+   "2s_25cm": {
+    "points": 1,
+    "held": 7,
+    "changed": [
+     "50000 pushed_out->held@16.3s",
+     "50003 touch->held@14.7s",
+     "50005 touch->held@16.6s",
+     "50006 walked_out->held@12.9s",
+     "50009 timer->held@14.4s",
+     "50010 pushed_out->held@13.1s",
+     "50011 touch->held@14.0s"
+    ]
+   }
+  },
+  "1d B-rule": {
+   "4s_5cm": {
+    "points": 14,
+    "held": 0,
+    "changed": []
+   },
+   "4s_15cm": {
+    "points": 14,
+    "held": 0,
+    "changed": []
+   },
+   "4s_25cm": {
+    "points": 14,
+    "held": 0,
+    "changed": []
+   },
+   "2s_15cm": {
+    "points": 14,
+    "held": 0,
+    "changed": []
+   },
+   "2s_25cm": {
+    "points": 14,
+    "held": 0,
+    "changed": []
+   }
+  },
+  "1d C": {
+   "4s_5cm": {
+    "points": 12,
+    "held": 1,
+    "changed": []
+   },
+   "4s_15cm": {
+    "points": 11,
+    "held": 3,
+    "changed": [
+     "50000 touch->held@19.2s",
+     "50005 pushed_out->held@22.9s"
+    ]
+   },
+   "4s_25cm": {
+    "points": 11,
+    "held": 3,
+    "changed": [
+     "50000 touch->held@14.2s",
+     "50005 pushed_out->held@21.4s"
+    ]
+   },
+   "2s_15cm": {
+    "points": 9,
+    "held": 5,
+    "changed": [
+     "50000 touch->held@12.2s",
+     "50001 touch->held@16.1s",
+     "50003 touch->held@19.4s",
+     "50005 pushed_out->held@14.2s"
+    ]
+   },
+   "2s_25cm": {
+    "points": 7,
+    "held": 7,
+    "changed": [
+     "50000 touch->held@12.2s",
+     "50001 touch->held@16.1s",
+     "50002 touch->held@20.1s",
+     "50003 touch->held@19.4s",
+     "50005 pushed_out->held@14.2s",
+     "50010 touch->held@16.4s"
+    ]
+   }
+  },
+  "2d A": {
+   "4s_5cm": {
+    "points": 4,
+    "held": 1,
+    "changed": [
+     "50008 walked_out->held@18.4s"
+    ]
+   },
+   "4s_15cm": {
+    "points": 4,
+    "held": 1,
+    "changed": [
+     "50008 walked_out->held@15.9s"
+    ]
+   },
+   "4s_25cm": {
+    "points": 4,
+    "held": 3,
+    "changed": [
+     "50000 walked_out->held@15.1s",
+     "50007 pushed_out->held@14.6s",
+     "50008 walked_out->held@17.7s"
+    ]
+   },
+   "2s_15cm": {
+    "points": 4,
+    "held": 4,
+    "changed": [
+     "50000 walked_out->held@14.3s",
+     "50007 pushed_out->held@14.0s",
+     "50008 walked_out->held@13.9s",
+     "50011 pushed_out->held@11.7s"
+    ]
+   },
+   "2s_25cm": {
+    "points": 4,
+    "held": 6,
+    "changed": [
+     "50000 walked_out->held@13.1s",
+     "50007 pushed_out->held@12.6s",
+     "50008 walked_out->held@12.8s",
+     "50009 pushed_out->held@11.1s",
+     "50011 pushed_out->held@11.7s",
+     "50013 pushed_out->held@12.8s"
+    ]
+   }
+  },
+  "2d A-rule": {
+   "4s_5cm": {
+    "points": 6,
+    "held": 0,
+    "changed": []
+   },
+   "4s_15cm": {
+    "points": 4,
+    "held": 4,
+    "changed": [
+     "50003 pushed_out->held@17.1s",
+     "50010 walked_out->held@16.1s",
+     "50011 touch->held@15.8s",
+     "50013 touch->held@18.0s"
+    ]
+   },
+   "4s_25cm": {
+    "points": 4,
+    "held": 5,
+    "changed": [
+     "50003 pushed_out->held@17.1s",
+     "50006 pushed_out->held@15.3s",
+     "50010 walked_out->held@15.2s",
+     "50011 touch->held@15.2s",
+     "50013 touch->held@17.4s"
+    ]
+   },
+   "2s_15cm": {
+    "points": 4,
+    "held": 7,
+    "changed": [
+     "50002 pushed_out->held@15.8s",
+     "50003 pushed_out->held@15.2s",
+     "50006 pushed_out->held@13.3s",
+     "50007 walked_out->held@17.6s",
+     "50010 walked_out->held@14.1s",
+     "50011 touch->held@13.8s",
+     "50013 touch->held@16.0s"
+    ]
+   },
+   "2s_25cm": {
+    "points": 3,
+    "held": 8,
+    "changed": [
+     "50002 pushed_out->held@15.8s",
+     "50003 pushed_out->held@15.2s",
+     "50006 pushed_out->held@13.3s",
+     "50007 walked_out->held@17.6s",
+     "50009 foul->held@11.5s",
+     "50010 walked_out->held@13.2s",
+     "50011 touch->held@13.2s",
+     "50013 touch->held@15.3s"
+    ]
+   }
+  },
+  "2d B-rule": {
+   "4s_5cm": {
+    "points": 12,
+    "held": 1,
+    "changed": []
+   },
+   "4s_15cm": {
+    "points": 12,
+    "held": 1,
+    "changed": []
+   },
+   "4s_25cm": {
+    "points": 12,
+    "held": 1,
+    "changed": []
+   },
+   "2s_15cm": {
+    "points": 11,
+    "held": 3,
+    "changed": [
+     "50001 walked_out->held@11.8s",
+     "50008 touch->held@12.7s"
+    ]
+   },
+   "2s_25cm": {
+    "points": 11,
+    "held": 3,
+    "changed": [
+     "50001 walked_out->held@11.8s",
+     "50008 touch->held@12.7s"
+    ]
+   }
+  },
+  "2d C": {
+   "4s_5cm": {
+    "points": 14,
+    "held": 1,
+    "changed": []
+   },
+   "4s_15cm": {
+    "points": 13,
+    "held": 2,
+    "changed": [
+     "50009 touch->held@13.8s"
+    ]
+   },
+   "4s_25cm": {
+    "points": 12,
+    "held": 3,
+    "changed": [
+     "50009 touch->held@13.8s",
+     "50014 touch->held@16.4s"
+    ]
+   },
+   "2s_15cm": {
+    "points": 11,
+    "held": 4,
+    "changed": [
+     "50009 touch->held@11.8s",
+     "50012 touch->held@12.3s",
+     "50014 touch->held@14.3s"
+    ]
+   },
+   "2s_25cm": {
+    "points": 11,
+    "held": 4,
+    "changed": [
+     "50009 touch->held@11.8s",
+     "50012 touch->held@11.6s",
+     "50014 touch->held@14.3s"
+    ]
+   }
+  },
+  "3d A": {
+   "4s_5cm": {
+    "points": 14,
+    "held": 0,
+    "changed": []
+   },
+   "4s_15cm": {
+    "points": 13,
+    "held": 1,
+    "changed": [
+     "50009 foul->held@20.8s"
+    ]
+   },
+   "4s_25cm": {
+    "points": 13,
+    "held": 1,
+    "changed": [
+     "50009 foul->held@20.2s"
+    ]
+   },
+   "2s_15cm": {
+    "points": 11,
+    "held": 3,
+    "changed": [
+     "50000 touch->held@14.9s",
+     "50009 foul->held@18.8s",
+     "50011 touch->held@14.4s"
+    ]
+   },
+   "2s_25cm": {
+    "points": 8,
+    "held": 6,
+    "changed": [
+     "50000 touch->held@14.9s",
+     "50002 touch->held@15.2s",
+     "50005 touch->held@16.5s",
+     "50009 foul->held@18.2s",
+     "50010 touch->held@14.9s",
+     "50011 touch->held@14.4s"
+    ]
+   }
+  },
+  "3d A-rule": {
+   "4s_5cm": {
+    "points": 10,
+    "held": 1,
+    "changed": [
+     "50009 pushed_out->held@24.9s"
+    ]
+   },
+   "4s_15cm": {
+    "points": 9,
+    "held": 3,
+    "changed": [
+     "50004 foul->held@18.1s",
+     "50008 walked_out->held@24.0s",
+     "50009 pushed_out->held@24.9s"
+    ]
+   },
+   "4s_25cm": {
+    "points": 9,
+    "held": 3,
+    "changed": [
+     "50004 foul->held@17.2s",
+     "50008 walked_out->held@20.5s",
+     "50009 pushed_out->held@17.9s"
+    ]
+   },
+   "2s_15cm": {
+    "points": 7,
+    "held": 5,
+    "changed": [
+     "50003 touch->held@16.1s",
+     "50004 foul->held@16.1s",
+     "50008 walked_out->held@16.8s",
+     "50009 pushed_out->held@15.6s",
+     "50011 touch->held@17.1s"
+    ]
+   },
+   "2s_25cm": {
+    "points": 7,
+    "held": 5,
+    "changed": [
+     "50003 touch->held@17.2s",
+     "50004 foul->held@15.2s",
+     "50008 walked_out->held@15.1s",
+     "50009 pushed_out->held@13.4s",
+     "50011 touch->held@13.7s"
+    ]
+   }
+  },
+  "3d B-rule": {
+   "4s_5cm": {
+    "points": 13,
+    "held": 2,
+    "changed": [
+     "50012 touch->held@18.8s",
+     "50014 timer->held@20.7s"
+    ]
+   },
+   "4s_15cm": {
+    "points": 13,
+    "held": 2,
+    "changed": [
+     "50012 touch->held@16.7s",
+     "50014 timer->held@15.0s"
+    ]
+   },
+   "4s_25cm": {
+    "points": 13,
+    "held": 2,
+    "changed": [
+     "50012 touch->held@16.7s",
+     "50014 timer->held@15.0s"
+    ]
+   },
+   "2s_15cm": {
+    "points": 13,
+    "held": 2,
+    "changed": [
+     "50012 touch->held@14.7s",
+     "50014 timer->held@13.0s"
+    ]
+   },
+   "2s_25cm": {
+    "points": 12,
+    "held": 3,
+    "changed": [
+     "50008 touch->held@9.7s",
+     "50012 touch->held@14.7s",
+     "50014 timer->held@13.0s"
+    ]
+   }
+  },
+  "3d C": {
+   "4s_5cm": {
+    "points": 9,
+    "held": 5,
+    "changed": [
+     "50002 touch->held@18.1s",
+     "50003 touch->held@24.2s",
+     "50005 touch->held@15.3s"
+    ]
+   },
+   "4s_15cm": {
+    "points": 9,
+    "held": 6,
+    "changed": [
+     "50002 touch->held@17.6s",
+     "50003 touch->held@18.4s",
+     "50005 touch->held@14.0s",
+     "50013 timer->held@26.3s"
+    ]
+   },
+   "4s_25cm": {
+    "points": 9,
+    "held": 6,
+    "changed": [
+     "50002 touch->held@18.1s",
+     "50003 touch->held@18.4s",
+     "50005 touch->held@13.2s",
+     "50013 timer->held@22.4s"
+    ]
+   },
+   "2s_15cm": {
+    "points": 7,
+    "held": 8,
+    "changed": [
+     "50002 touch->held@15.7s",
+     "50003 touch->held@16.4s",
+     "50005 touch->held@12.0s",
+     "50011 touch->held@18.9s",
+     "50013 timer->held@20.6s",
+     "50014 touch->held@15.1s"
+    ]
+   },
+   "2s_25cm": {
+    "points": 5,
+    "held": 10,
+    "changed": [
+     "50001 touch->held@13.1s",
+     "50002 touch->held@16.1s",
+     "50003 touch->held@16.4s",
+     "50005 touch->held@11.2s",
+     "50006 touch->held@9.1s",
+     "50011 touch->held@16.4s",
+     "50013 timer->held@20.4s",
+     "50014 touch->held@14.2s"
+    ]
+   }
+  }
+ }
+}

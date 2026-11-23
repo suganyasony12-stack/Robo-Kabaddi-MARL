@@ -1,0 +1,16 @@
+raid,seed,raider,defence,n_def,gate,kind,out_defenders,t_s,raid_t_s,midline_t_s,contact,note,fake,def_start,pairs,raider_rule,start_off_cm_max,media
+1,50000,learned,learned,2,,walked_out,,20.5,18.4,2.1,1,,0,"1.0,1.5",accepted,,8.4,media/raid01_seed50000
+2,50001,learned,learned,2,,touch,2,16.2,15.4,0.8,1,,0,"1.0,1.5",accepted,,8.8,media/raid02_seed50001
+3,50002,learned,learned,2,,pushed_out,,16.9,14.3,2.6,1,,0,"1.0,1.5",accepted,,8.1,media/raid03_seed50002
+4,50003,learned,learned,2,,pushed_out,,14.0,12.4,1.6,1,,0,"1.0,1.5",accepted,,8.1,discarded
+5,50004,learned,learned,2,,walked_out,,15.7,14.2,1.5,1,,0,"1.0,1.5",accepted,,8.6,media/raid05_seed50004
+6,50005,learned,learned,2,,touch,2,19.0,17.2,1.8,1,,0,"1.0,1.5",accepted,,8.7,media/raid06_seed50005
+7,50006,learned,learned,2,,touch,2,18.2,17.5,0.8,1,,0,"1.0,1.5",accepted,,8.7,discarded
+8,50007,learned,learned,2,,pushed_out,,23.9,22.3,1.6,1,,0,"1.0,1.5",accepted,,9.5,discarded
+9,50008,learned,learned,2,,walked_out,,22.4,19.8,2.6,1,,0,"1.0,1.5",accepted,,8.3,discarded
+10,50009,learned,learned,2,,pushed_out,,12.3,10.9,1.4,1,,0,"1.0,1.5",accepted,,8.6,discarded
+11,50010,learned,learned,2,,pushed_out,,13.0,10.9,2.1,1,,0,"1.0,1.5",accepted,,7.9,discarded
+12,50011,learned,learned,2,,pushed_out,,15.1,14.4,0.8,1,,0,"1.0,1.5",accepted,,8.9,discarded
+13,50012,learned,learned,2,,walked_out,,15.9,12.7,3.2,1,,0,"1.0,1.5",accepted,,8.6,discarded
+14,50013,learned,learned,2,,pushed_out,,14.7,12.8,1.8,1,,0,"1.0,1.5",accepted,,9.4,discarded
+15,50014,learned,learned,2,,touch,1,15.8,14.9,1.0,1,,0,"1.0,1.5",accepted,,8.2,media/raid15_seed50014

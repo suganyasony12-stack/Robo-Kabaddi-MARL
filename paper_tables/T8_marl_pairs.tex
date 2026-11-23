@@ -1,0 +1,15 @@
+\begin{table}[t]
+\centering
+\caption{The learned pairs after alternating training: the raider against its own defence, and the defence against the scripted raider (\%)}
+\label{tab:T8_marl_pairs}
+\begin{tabular}{lccccccc}
+\toprule
+Def. & Pair (raider vs defence) & Raider vs own defence: touch & tackle & foul & empty & Defence vs scripted raider: touch & tackle \\
+\midrule
+1 & one\_def\_copy/raider\_s456 vs one\_def\_copy/defence\_s0 & 0.0 [0, 2] & 100.0 [98, 100] & 0.0 [0, 2] & 0.0 [0, 2] & 1.0 [0, 4] & 99.0 [96, 100] \\
+2 & two\_def\_r2/raider\_s123 vs two\_def/defence\_s1 & 0.0 [0, 2] & 100.0 [98, 100] & 0.0 [0, 2] & 0.0 [0, 2] & 0.0 [0, 2] & 100.0 [98, 100] \\
+3 & alt\_wo\_r2/r2\_raider\_s42 vs alt\_wo\_init/defence\_s0 & 1.0 [0, 4] & 99.0 [96, 100] & 0.0 [0, 2] & 0.0 [0, 2] & 3.5 [2, 7] & 96.5 [93, 98] \\
+\bottomrule
+\end{tabular}
+\par\smallskip\footnotesize 200 raids each; defenders start in the back row; speed 1.0.
+\end{table}

@@ -1,0 +1,59 @@
+{
+  "run": "sac_1v3_seed123_1M",
+  "spec": {
+    "algo": "sac",
+    "n_def": 3,
+    "seed": 123,
+    "env": {},
+    "reward": {},
+    "steps": 250000,
+    "pretrain": true
+  },
+  "steps": 1000000,
+  "n_envs": 1,
+  "env_kwargs": {
+    "n_defenders": 3,
+    "locomotion": "planar_force",
+    "robot_shape": "box",
+    "defender_type": "gate",
+    "gate_style": "keepout",
+    "start_layout": "back_row",
+    "raider_start": "near_midline",
+    "raider_command": "hardware",
+    "action_repeat": 4,
+    "outcome_rules": "physical",
+    "static_time": 4.0,
+    "contact_model": "camera",
+    "contact_dist": 0.25,
+    "contact_min_depth": 0.2,
+    "contact_confirm_steps": 2,
+    "court_walls": false,
+    "empty_on_return": true
+  },
+  "hyperparameters": {
+    "learning_rate": 0.0003,
+    "buffer_size": 300000,
+    "batch_size": 256,
+    "tau": 0.005,
+    "gamma": 0.99,
+    "train_freq": 1,
+    "gradient_steps": 1,
+    "learning_starts": 10000,
+    "policy_kwargs": {
+      "net_arch": [
+        256,
+        256
+      ],
+      "use_sde": false
+    }
+  },
+  "stages": {
+    "pursuit": 254000,
+    "gate": 746000
+  },
+  "started": "2026-10-26 21:11:46",
+  "stage1_actual_decisions": 254000,
+  "total_actual_decisions": 1000000,
+  "elapsed_min": 168.74,
+  "finished": "2026-10-27 00:00:31"
+}

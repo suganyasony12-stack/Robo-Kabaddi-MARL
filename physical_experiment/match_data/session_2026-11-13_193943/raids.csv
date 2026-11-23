@@ -1,0 +1,2 @@
+raid,seed,raider,defence,n_def,gate,kind,out_defenders,t_s,raid_t_s,midline_t_s,contact,note,fake,def_start,pairs,return_margin,raider_rule,start_off_cm_max,media
+1,50007,learned,scripted,3,v8,stopped,,17.2,14.2,3.0,1,a robot lost Bluetooth,0,"1.0,1.5",accepted,0.03,deep,8.3,discarded

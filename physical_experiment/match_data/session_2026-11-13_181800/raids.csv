@@ -1,0 +1,16 @@
+raid,seed,raider,defence,n_def,gate,kind,out_defenders,t_s,raid_t_s,midline_t_s,contact,note,fake,def_start,pairs,return_margin,raider_rule,start_off_cm_max,media
+1,50000,learned,learned,3,,stopped,,9.4,6.9,2.5,0,a robot lost Bluetooth,0,"1.0,1.5",accepted,0.03,deep,8.2,discarded
+2,50001,learned,learned,3,,stopped,,13.6,12.3,1.3,1,a robot lost Bluetooth,0,"1.0,1.5",accepted,0.03,deep,8.4,discarded
+3,50002,learned,learned,3,,walked_out,,22.5,20.1,2.5,1,,0,"1.0,1.5",accepted,0.03,deep,8.6,media/raid03_seed50002
+4,50003,learned,learned,3,,touch,2,21.8,20.0,1.8,1,,0,"1.0,1.5",accepted,0.03,deep,8.6,media/raid04_seed50003
+5,50004,learned,learned,3,,foul,3,20.2,19.4,0.8,1,,0,"1.0,1.5",accepted,0.03,deep,8.7,discarded
+6,50005,learned,learned,3,,touch,1,16.9,15.1,1.8,1,,0,"1.0,1.5",accepted,0.03,deep,8.6,discarded
+7,50006,learned,learned,3,,touch,2,18.3,17.6,0.8,1,,0,"1.0,1.5",accepted,0.03,deep,9.3,discarded
+8,50007,learned,learned,3,,touch,3,28.9,17.2,11.7,1,,0,"1.0,1.5",accepted,0.03,deep,8.4,discarded
+9,50008,learned,learned,3,,walked_out,,25.4,23.0,2.5,1,,0,"1.0,1.5",accepted,0.03,deep,8.5,media/raid09_seed50008
+10,50009,learned,learned,3,,pushed_out,,26.8,24.4,2.3,1,,0,"1.0,1.5",accepted,0.03,deep,8.7,media/raid10_seed50009
+11,50010,learned,learned,3,,touch,1,18.1,16.2,1.9,1,touch through a defender over the midline,0,"1.0,1.5",accepted,0.03,deep,8.9,discarded
+12,50011,learned,learned,3,,touch,2,21.6,20.4,1.2,1,,0,"1.0,1.5",accepted,0.03,deep,8.0,discarded
+13,50012,learned,learned,3,,touch,1,18.0,15.9,2.1,1,touch through a defender over the midline,0,"1.0,1.5",accepted,0.03,deep,8.5,discarded
+14,50013,learned,learned,3,,pushed_out,,16.1,14.7,1.5,1,,0,"1.0,1.5",accepted,0.03,deep,9.2,discarded
+15,50014,learned,learned,3,,touch,1,15.0,13.7,1.3,1,,0,"1.0,1.5",accepted,0.03,deep,8.7,discarded

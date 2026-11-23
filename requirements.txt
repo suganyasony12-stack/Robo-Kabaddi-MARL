@@ -1,0 +1,9 @@
+# Python 3.10 or 3.11
+gymnasium>=0.29
+stable-baselines3>=2.2
+pybullet>=3.2.5
+numpy>=1.24
+torch>=2.0
+opencv-contrib-python>=4.8   # cv2.aruco, for the physical pipeline
+matplotlib>=3.7
+pandas>=2.0

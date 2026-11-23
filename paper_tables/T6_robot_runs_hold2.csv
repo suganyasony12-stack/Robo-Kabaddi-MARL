@@ -1,0 +1,13 @@
+Def.,Case,Robots: raider points,Robots: empty,"Sim, same seeds","Sim, all raids","Same side, raid by raid"
+1,A-rule: learned + rule vs learned,"1/15 (6.7 [1, 30])",0,1/15,"8.5 [5, 13] (n=200)",13/15
+1,A: learned vs learned,"4/15 (26.7 [11, 52])",1,1/15,"7.0 [4, 11] (n=200)",9/15
+1,C: scripted vs learned,"7/15 (46.7 [25, 70])",0,3/15,"24.5 [19, 31] (n=200)",7/15
+1,B-rule: learned + rule vs gate v8,"14/15 (93.3 [70, 99])",0,15/15,"99.8 [99, 100] (n=500)",14/15
+2,A-rule: learned + rule vs learned,"3/15 (20.0 [7, 45])",0,3/15,"12.0 [8, 17] (n=200)",11/15
+2,A: learned vs learned,"4/15 (26.7 [11, 52])",0,3/15,"22.0 [17, 28] (n=200)",10/15
+2,C: scripted vs learned,"11/15 (73.3 [48, 89])",0,1/15,"21.0 [16, 27] (n=200)",5/15
+2,B-rule: learned + rule vs gate v8,"11/15 (73.3 [48, 89])",0,14/15,"99.0 [98, 100] (n=500)",10/15
+3,A-rule: learned + rule vs learned,"7/15 (46.7 [25, 70])",0,5/15,"42.5 [36, 49] (n=200)",5/15
+3,A: learned vs learned,"8/15 (53.3 [30, 75])",1,1/15,"30.5 [25, 37] (n=200)",4/15
+3,C: scripted vs learned,"5/15 (33.3 [15, 58])",0,6/15,"41.0 [34, 48] (n=200)",10/15
+3,B-rule: learned + rule vs gate v8,"12/15 (80.0 [55, 93])",0,8/15,"46.2 [42, 51] (n=500)",9/15

@@ -1,0 +1,2 @@
+raid,seed,raider,defence,n_def,gate,kind,out_defenders,t_s,raid_t_s,midline_t_s,contact,note,fake,def_start,pairs,return_margin,raider_rule,start_off_cm_max,media
+1,50014,learned,scripted,2,v8,touch,2,14.8,13.7,1.1,1,,0,"1.0,1.5",accepted,0.03,deep,9.5,discarded

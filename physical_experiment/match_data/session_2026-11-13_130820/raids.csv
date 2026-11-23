@@ -1,0 +1,10 @@
+raid,seed,raider,defence,n_def,gate,kind,out_defenders,t_s,contact,note,fake,def_start,pairs,raider_rule,start_off_cm_max
+1,50001,learned,learned,1,,pushed_out,,17.4,1,,0,"1.0,1.5",accepted,deep,8.7
+2,50002,learned,learned,1,,walked_out,,12.9,0,,0,"1.0,1.5",accepted,deep,5.7
+3,50003,learned,learned,1,,touch,1,19.9,1,,0,"1.0,1.5",accepted,deep,9.5
+4,50004,learned,learned,1,,walked_out,,11.8,0,,0,"1.0,1.5",accepted,deep,7.8
+5,50005,learned,learned,1,,touch,1,26.8,1,,0,"1.0,1.5",accepted,deep,9.0
+6,50006,learned,learned,1,,stopped,,15.7,1,raider_1: marker not seen,0,"1.0,1.5",accepted,deep,7.1
+7,50007,learned,learned,1,,stopped,,3.4,0,defender_1: marker not seen,0,"1.0,1.5",accepted,deep,8.1
+8,50008,learned,learned,1,,pushed_out,,16.2,1,,0,"1.0,1.5",accepted,deep,8.1
+9,50009,learned,learned,1,,stopped,,20.3,1,raider_1: marker not seen,0,"1.0,1.5",accepted,deep,7.4

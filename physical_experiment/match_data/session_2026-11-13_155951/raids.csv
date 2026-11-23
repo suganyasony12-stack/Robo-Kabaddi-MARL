@@ -1,0 +1,16 @@
+raid,seed,raider,defence,n_def,gate,kind,out_defenders,t_s,raid_t_s,midline_t_s,contact,note,fake,def_start,pairs,raider_rule,start_off_cm_max,media
+1,50000,learned,scripted,1,v8,touch,1,18.4,16.4,2.1,1,,0,"1.0,1.5",accepted,deep,8.1,media/raid01_seed50000
+2,50001,learned,scripted,1,v8,touch,1,14.3,13.4,1.0,1,,0,"1.0,1.5",accepted,deep,8.2,discarded
+3,50002,learned,scripted,1,v8,walked_out,,13.7,10.1,3.6,0,,0,"1.0,1.5",accepted,deep,8.4,media/raid03_seed50002
+4,50003,learned,scripted,1,v8,stopped,,2.6,0.2,2.4,0,a robot lost Bluetooth,0,"1.0,1.5",accepted,deep,7.4,discarded
+5,50004,learned,scripted,1,v8,touch,1,16.1,15.5,0.7,1,,0,"1.0,1.5",accepted,deep,7.7,media/raid05_seed50004
+6,50005,learned,scripted,1,v8,touch,1,20.5,18.8,1.8,1,,0,"1.0,1.5",accepted,deep,7.3,discarded
+7,50006,learned,scripted,1,v8,touch,1,15.8,15.0,0.8,1,,0,"1.0,1.5",accepted,deep,8.3,discarded
+8,50007,learned,scripted,1,v8,touch,1,22.0,13.5,8.5,1,,0,"1.0,1.5",accepted,deep,8.2,discarded
+9,50008,learned,scripted,1,v8,touch,1,18.2,15.7,2.6,1,,0,"1.0,1.5",accepted,deep,8.4,discarded
+10,50009,learned,scripted,1,v8,touch,1,14.8,13.2,1.6,1,,0,"1.0,1.5",accepted,deep,7.8,discarded
+11,50010,learned,scripted,1,v8,touch,1,21.1,18.5,2.7,1,,0,"1.0,1.5",accepted,deep,9.0,discarded
+12,50011,learned,scripted,1,v8,touch,1,14.7,13.4,1.3,1,,0,"1.0,1.5",accepted,deep,7.2,discarded
+13,50012,learned,scripted,1,v8,touch,1,16.7,14.2,2.5,1,,0,"1.0,1.5",accepted,deep,8.6,media/raid13_seed50012
+14,50013,learned,scripted,1,v8,touch,1,15.9,14.6,1.4,1,,0,"1.0,1.5",accepted,deep,5.5,discarded
+15,50014,learned,scripted,1,v8,touch,1,17.9,16.7,1.2,1,,0,"1.0,1.5",accepted,deep,8.3,discarded

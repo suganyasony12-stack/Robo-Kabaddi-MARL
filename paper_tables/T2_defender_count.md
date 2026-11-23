@@ -1,0 +1,9 @@
+### T2_defender_count: PPO raider against 1, 2 and 3 gate defenders, touch %
+
+| Defenders | v6 | v7 | v8 | v9 | v10 | v11 |
+|---|---|---|---|---|---|---|
+| 1 defender | 99.8 [100, 100] | 100.0 [100, 100] | 99.8 [100, 100] | 99.4 [99, 100] | — | 83.8 [82, 85] |
+| 2 defenders | 99.6 [99, 100] | 98.3 [98, 99] | 65.3 [64, 67] | 93.1 [92, 94] | — | 5.5 [5, 6] |
+| 3 defenders | 87.6 [86, 89] | 76.2 [75, 78] | 72.2 [71, 74] | 40.8 [39, 43] | 39.3 [38, 41] | 27.8 [26, 29] |
+
+3 seeds x 1000 raids per cell; 1 vs 2 seed 123 trained longer; v10 was evaluated for 3 defenders only.
